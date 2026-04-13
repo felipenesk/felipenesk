@@ -1,9 +1,16 @@
-# 💻 Felipe Daniel
+# 👨‍💻 Felipe Daniel
 
-**`Dev Iniciante`**
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em Desenvolvimento de Software e Análise de Dados  
+📍 Brasil  
 
-Me chamo Felipe Daniel Gonçalves, tenho 18 anos e sou natural de Minas Gerais. estou cursando Análise e Desenvolvimento de Sistemas na Anhaguera.
+## 🚀 Atualmente estudando:
+- Python
+- Lógica de Programação
+- Git e GitHub
 
----
+## 📂 Projetos
+- (em breve)
 
-
+## 📫 Contato
+- Email: felipework2201@gmail.com

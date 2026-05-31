@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Focado em Desenvolvimento de Software e Análise de Dados  
-📍 Brasil  
+📍 Jacareí-SP
 
 ## 🚀 Atualmente estudando:
 - Python

@@ -1,7 +1,7 @@
 # 🔷Felipe Daniel
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Futuro FullStack
+💻 Futuro FullStack          
 📍 Jacareí-SP
 
 ## 🚀 Atualmente estudando:

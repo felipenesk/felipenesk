@@ -1,16 +1,12 @@
-# 👨‍💻 Felipe Daniel
+# 🔷Felipe Daniel
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Focado em Desenvolvimento de Software e Análise de Dados  
+💻 Futuro FullStack
 📍 Jacareí-SP
 
 ## 🚀 Atualmente estudando:
-- Python
 - Lógica de Programação
-- Git e GitHub
-
-## 📂 Projetos
-- (em breve)
+- HTML, CSS e JavaScript
 
 ## 📫 Contato
 - Email: felipework2201@gmail.com

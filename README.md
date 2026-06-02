@@ -2,6 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Futuro FullStack
+
 📍 Jacareí-SP
 
 ## 🚀 Atualmente estudando:

@@ -9,19 +9,31 @@ Sou estudante de ADS com afinidade em hardware, otimização de sistemas e autom
 Busco minha primeira oportunidade na área de desenvolvimento ou suporte de TI.
 
 🛠️ Habilidades
+
 -Programação & Automação
+
 -Lógica de Programação (VisualG)
+
 -Scripts e Automações (Batch / .bat)
+
 -Infraestrutura & Hardware
+
 -Montagem e manutenção de PCs
+
 -Otimização de Windows e configuração de performance
+
 -Formatação e instalação de Sistemas Operacionais
 
 🔎Ferramentas
+
 -Pacote Office
+
 -Uso de IA para criação e automação
+
 -Git / GitHub
 
 📚 Atualmente estudando
+
 -HTML, CSS e JavaScript
+
 -Algoritmos e Estruturas de Dados

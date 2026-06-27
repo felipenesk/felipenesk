@@ -4,7 +4,8 @@ Olá, eu sou o Felipe Daniel! 👋
 📍 Jacareí - SP
 📧 felipework2201@gmail.com
 
-Sobre mim:
+👤Sobre mim
+
 Sou estudante de ADS com afinidade em hardware, otimização de sistemas e automações. Atualmente focado em desenvolvimento web e explorando o uso de Inteligência Artificial para criar e automatizar coisas.
 Busco minha primeira oportunidade na área de desenvolvimento ou suporte de TI.
 

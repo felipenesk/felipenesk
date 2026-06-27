@@ -2,7 +2,6 @@ Olá, eu sou o Felipe Daniel! 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas — Anhanguera
 📍 Jacareí - SP
-
 📧 felipework2201@gmail.com
 
 👤Sobre mim
